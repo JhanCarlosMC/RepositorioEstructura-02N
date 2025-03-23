@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69e5ef45-73b6-44d4-821a-10e08a701e86" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics/src/main/java/org/example/ClaseGenerica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics/src/main/java/org/example/ClaseGenericosDos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics/src/main/java/org/example/ClaseNoGenerica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics/src/main/java/org/example/ClaseNormal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/listasimplementeenlazada/ListaSimplementeEnlazada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/listasimplementeenlazada/Nodo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TallerColecciones/src/main/java/org/example/Ejercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TallerColecciones/src/main/java/org/example/Ejercicio10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TallerColecciones/src/main/java/org/example/Ejercicio11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TallerColecciones/src/main/java/org/example/Ejercicio12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TallerColecciones/src/main/java/org/example/Ejercicio13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TallerColecciones/src/main/java/org/example/Ejercicio14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TallerColecciones/src/main/java/org/example/Ejercicio15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TallerColecciones/src/main/java/org/example/Ejercicio16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TallerColecciones/src/main/java/org/example/Ejercicio17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TallerColecciones/src/main/java/org/example/Ejercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TallerColecciones/src/main/java/org/example/Ejercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TallerColecciones/src/main/java/org/example/Ejercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TallerColecciones/src/main/java/org/example/Ejercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TallerColecciones/src/main/java/org/example/Ejercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TallerColecciones/src/main/java/org/example/Ejercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TallerColecciones/src/main/java/org/example/Ejercicio8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TallerColecciones/src/main/java/org/example/Ejercicio9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/listadoblementeenlazada/ListaCircularSimplementeEnlazada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/listadoblementeenlazada/Nodo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +38,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Workspaces/Estructura de Datos - 02N/ListasEnlazadas/src/main/java/org/example/listadoblementeenlazada&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -69,6 +48,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspaces\Estructura de Datos - 02N\ListasEnlazadas\src\main\java\org\example\listadoblementeenlazada" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Workspaces\Estructura de Datos - 02N\ListasEnlazadas\src\main\java\org\example\listadoblementeenlazada" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
@@ -106,7 +93,8 @@
       <option name="presentableId" value="Default" />
       <updated>1742340830698</updated>
       <workItem from="1742340831875" duration="4451000" />
-      <workItem from="1742520688217" duration="2547000" />
+      <workItem from="1742520688217" duration="4762000" />
+      <workItem from="1742560042918" duration="69000" />
     </task>
     <servers />
   </component>
