@@ -1,7 +1,6 @@
 package org.example.listadoblementeenlazada;
 
 public class Nodo<E> {
-    //Si se agregar una referencia aun nodo "anterior" prodria ser doblemente enlazada
 
     private E elemento;
     private Nodo<E> siguiente;
